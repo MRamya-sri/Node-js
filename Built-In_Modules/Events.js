@@ -8,3 +8,6 @@ emitter.on('messageLogged', function(){
 
 // Raise an Event
 emitter.emit('messageLogged');
+
+
+// emit usually means making a noise, produce- signalling.
